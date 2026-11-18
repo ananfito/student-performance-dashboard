@@ -6,7 +6,7 @@ Built in Tableau this dashboard features reading performance data. The dashboard
 
 ## Dashboard Preview 
 [Reading Performance Dashboard](https://public.tableau.com/app/profile/anthony.nanfito/viz/reading-db/Story)
-![reading performance dashboard](./reading-db.png)
+![reading performance dashboard](./media/reading-db.png)
 
 ## Data Source
 [Reading Performance (Kaggle)](https://www.kaggle.com/datasets/chibangng/reading-performance)
